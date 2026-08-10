@@ -1,0 +1,13 @@
+tipo:Corriente:15000:0.0
+tipo:Regular:22000:71.86363636363636
+tipo:Premium:50000:34.94
+tipo:Diesel:13000:51.0
+surtidor:Santiago:Corriente:0.0:Regular:0.0:Premium:3.06:Diesel:0.0
+surtidor:Lorena:Corriente:0.0:Regular:0.13636363636363635:Premium:0.0:Diesel:0.0
+surtidor:Sofia:Corriente:100.0:Regular:0.0:Premium:0.0:Diesel:0.0
+surtidor:Lorena:Corriente:0.0:Regular:0.0:Premium:0.0:Diesel:4.0
+empleado:Santiago:153000
+empleado:Sofia:1500000
+empleado:Sneider:0
+empleado:Lorena:55000
+empleado:Jhon:0
